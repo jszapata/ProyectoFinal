@@ -48,3 +48,4 @@ El entrenamiento del híbrido ya fue ejecutado y sus archivos están separados. 
 ## Alcance
 
 Grad-CAM se generó solo para CNN y de forma exploratoria. Los modelos son prototipos académicos: no son dispositivos médicos ni deben usarse para tomar decisiones clínicas. Para mejorar el estudio harían falta varias semillas, más épocas con criterio de parada, tratamiento explícito del desbalance, ajuste de umbrales para los cuatro modelos, medición de memoria pico de entrenamiento y evaluación externa.
+# ProyectoFinal
