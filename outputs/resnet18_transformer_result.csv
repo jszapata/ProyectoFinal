@@ -1,0 +1,2 @@
+model,parameters,best_epoch,best_val_f1_macro,test_loss,test_accuracy_exact,test_f1_macro,test_f1_micro,test_auroc_macro,test_eval_seconds
+resnet18_transformer,12904014,5,0.1019694178804462,0.21272112653241493,0.3673230192217534,0.11858785838724459,0.25286109453815697,0.7820892728838594,362.96415333400364

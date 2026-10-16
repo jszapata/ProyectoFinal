@@ -1,0 +1,18 @@
+# Dataset ChestX-ray14 — no subir imágenes ni archivos descargados
+/data/
+/Data/
+
+# Archivos generados por macOS y editores
+.DS_Store
+.ipynb_checkpoints/
+
+# Entornos locales y secretos
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Cachés
+__pycache__/
+*.py[cod]

@@ -1,0 +1,13 @@
+{
+  "seed": 42,
+  "image_size": 224,
+  "batch_size": 8,
+  "epochs": 5,
+  "max_images": null,
+  "models": [
+    "resnet18",
+    "densenet121",
+    "efficientnet_b0"
+  ],
+  "device": "mps"
+}
